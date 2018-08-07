@@ -1,0 +1,2 @@
+# tpOperativos
+tp pasado operativos
